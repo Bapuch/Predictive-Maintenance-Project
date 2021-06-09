@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[rapport](Predictive-Maintenance-Project/docs/Rapport_projetCDO.pdf)
+[rapport](/docs/Rapport_projetCDO.pdf)
 
 You can use the [editor on GitHub](https://github.com/Bapuch/Predictive-Maintenance-Project/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
